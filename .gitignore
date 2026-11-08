@@ -1,0 +1,11 @@
+/target/
+/build/
+/.gradle/
+/.idea/
+*.iml
+.env
+.env.*
+!.env.example
+/.scannerwork/
+.DS_Store
+*.log
